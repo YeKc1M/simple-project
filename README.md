@@ -7,3 +7,5 @@ sp2.cpp Pig Latin game
 sp3.cpp count the number of each vowel in a string
 
 sp4.cpp palindrome string
+
+sp5 count the times each word that appears in a phrase (use java because java has GC, and to free the dynamic memory in C++ is kind of tiring)
