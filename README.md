@@ -11,3 +11,5 @@ sp4.cpp palindrome string
 sp5 count the times each word that appears in a phrase (use java because java has GC, and to free the dynamic memory in C++ is kind of tiring)
 
 sp6 a product class including number, id and price, and an inventory class including multiple products
+
+sp7 a tape store renting tapes
